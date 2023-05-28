@@ -21,14 +21,18 @@ Visit these important official repositories:
 	* Camera
 	* Wifi
 	* RIL
-	* BT
-	* FP
+	* Bluetooth
+	* Fingerprint
 	* GPS
+	* Sensors
+	* VolTE
+	* 5G
+	* Vibration
 
 ### Bugs?
 
-	* Selinux permissive
-	* NFC
+	* Selinux Permissive
+	* NFC (? no tested)
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
