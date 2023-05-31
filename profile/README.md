@@ -31,17 +31,17 @@ Visit these important official repositories:
 	* 5G
 	* Vibration
 	* NFC
+	* Fast Charging
 	* Selinux Enforcing
 
 ### Bugs?
 
-	* Fast Charging
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
 ### Credits
 
-	* @Divyanshu-Modi
+	* @Divyanshu-Modi (Pro guy for port CAF kernel for redwood)
 	* @chemusqui1
 	* @Klozz
 	* @Rdx55 (Pro tester)
