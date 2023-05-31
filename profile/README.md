@@ -30,11 +30,12 @@ Visit these important official repositories:
 	* VolTE
 	* 5G
 	* Vibration
+	* NFC
 	* Selinux Enforcing
 
 ### Bugs?
 
-	* NFC (? no tested)
+	* Fast Charging
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
