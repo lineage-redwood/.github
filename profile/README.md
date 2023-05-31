@@ -28,10 +28,10 @@ Visit these important official repositories:
 	* VolTE
 	* 5G
 	* Vibration
+	* Selinux Enforcing
 
 ### Bugs?
 
-	* Selinux Permissive
 	* NFC (? no tested)
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
