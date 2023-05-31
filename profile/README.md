@@ -39,7 +39,12 @@ Visit these important official repositories:
 ### Credits
 
 	* @Divyanshu-Modi
+	* @chemusqui1
+	* @Klozz
+	* @Rdx55 (Pro tester)
+	* @thepriyanshujangid (Pro tester)
 	* @BladeRunner-A2C
+	* @popoASM
 	* @ItsVixano
 	* @ghostrider-reborn
 	* @ArianK16a
