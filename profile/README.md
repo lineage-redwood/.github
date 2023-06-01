@@ -31,11 +31,11 @@ Visit these important official repositories:
 	* 5G
 	* Vibration
 	* NFC
-	* Fast Charging
 	* Selinux Enforcing
 
 ### Bugs?
 
+	* Fast Charging (67W)
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
