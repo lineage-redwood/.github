@@ -9,8 +9,6 @@ LineageOS Android Distribution A free and open-source operating system for vario
 
 ### Device Configurations
 
-Visit these important official repositories:
-
 - [Device](https://github.com/lineage-redwood/android_device_xiaomi_redwood)
 - [Device Common](https://github.com/lineage-redwood/android_device_xiaomi_sm7325-common)
 - [Vendor](https://github.com/lineage-redwood/android_vendor_xiaomi_redwood)
