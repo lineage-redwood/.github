@@ -16,6 +16,7 @@ Visit these important official repositories:
 - [Vendor](https://github.com/lineage-redwood/android_vendor_xiaomi_redwood)
 - [Vendor Common](https://github.com/lineage-redwood/android_vendor_xiaomi_sm7325-common)
 - [Kernel](https://github.com/lineage-redwood/android_kernel_xiaomi_sm7325)
+- [Firmware](https://gitlab.com/TheStrechh/android_vendor_xiaomi_redwood-firmware)
 
 ### Whats works?
 
