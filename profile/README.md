@@ -9,11 +9,11 @@ LineageOS Android Distribution A free and open-source operating system for vario
 
 ### Device Configurations
 
-- [Device](https://github.com/lineage-redwood/android_device_xiaomi_redwood)
-- [Device Common](https://github.com/lineage-redwood/android_device_xiaomi_sm7325-common)
-- [Vendor](https://github.com/lineage-redwood/android_vendor_xiaomi_redwood)
-- [Vendor Common](https://github.com/lineage-redwood/android_vendor_xiaomi_sm7325-common)
-- [Kernel](https://github.com/lineage-redwood/android_kernel_xiaomi_sm7325)
+- [Device](https://github.com/xiaomi-redwood-devs/android_device_xiaomi_redwood)
+- [Device Common](https://github.com/xiaomi-redwood-devs/android_device_xiaomi_sm8350-common)
+- [Vendor](https://github.com/xiaomi-redwood-devs/android_vendor_xiaomi_redwood)
+- [Vendor Common](https://github.com/xiaomi-redwood-devs/android_vendor_xiaomi_sm8350-common)
+- [Kernel](https://github.com/xiaomi-redwood-devs/android_kernel_xiaomi_sm8350)
 - [Firmware](https://gitlab.com/TheStrechh/android_vendor_xiaomi_redwood-firmware)
 
 ### Whats works?
@@ -34,13 +34,13 @@ LineageOS Android Distribution A free and open-source operating system for vario
 
 ### Bugs?
 
-	* Fast Charging (67W)
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
 ### Credits
 
-	* @Divyanshu-Modi (Pro guy for port CAF kernel for redwood)
+	* @FlowerSea0208 
+	* @Divyanshu-Modi
 	* @chemusqui1
 	* @Klozz
 	* @Rdx55 (Pro tester)
