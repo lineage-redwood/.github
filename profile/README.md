@@ -1,6 +1,6 @@
 ![LineageOS](https://i.blogs.es/86a836/img_20230206_112113_788/1366_2000.jpeg)
 
-LineageOS 20 for Poco X5 Pro/Redmi Note 12 Pro Speed Unified ("redwood")
+LineageOS 19.1 for Poco X5 Pro/Redmi Note 12 Pro Speed Unified ("redwood")
 ===========
 
 Unofficial trees experimentals
@@ -10,10 +10,8 @@ LineageOS Android Distribution A free and open-source operating system for vario
 ### Device Configurations
 
 - [Device](https://github.com/xiaomi-redwood-devs/android_device_xiaomi_redwood)
-- [Device Common](https://github.com/xiaomi-redwood-devs/android_device_xiaomi_sm8350-common)
 - [Vendor](https://github.com/xiaomi-redwood-devs/android_vendor_xiaomi_redwood)
-- [Vendor Common](https://github.com/xiaomi-redwood-devs/android_vendor_xiaomi_sm8350-common)
-- [Kernel](https://github.com/xiaomi-redwood-devs/android_kernel_xiaomi_sm8350)
+- [Kernel](https://github.com/xiaomi-redwood-devs/android_kernel_xiaomi_redwood)
 - [Firmware](https://gitlab.com/TheStrechh/android_vendor_xiaomi_redwood-firmware)
 
 ### Whats works?
