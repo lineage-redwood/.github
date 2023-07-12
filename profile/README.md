@@ -1,6 +1,6 @@
 ![LineageOS](https://i.blogs.es/86a836/img_20230206_112113_788/1366_2000.jpeg)
 
-LineageOS 19.1 for Poco X5 Pro/Redmi Note 12 Pro Speed Unified ("redwood")
+LineageOS 20 for Poco X5 Pro/Redmi Note 12 Pro Speed Unified ("redwood")
 ===========
 
 Unofficial trees experimentals
@@ -12,7 +12,6 @@ LineageOS Android Distribution A free and open-source operating system for vario
 - [Device](https://github.com/xiaomi-redwood-devs/android_device_xiaomi_redwood)
 - [Vendor](https://github.com/xiaomi-redwood-devs/android_vendor_xiaomi_redwood)
 - [Kernel](https://github.com/xiaomi-redwood-devs/android_kernel_xiaomi_redwood)
-- [Firmware](https://gitlab.com/TheStrechh/android_vendor_xiaomi_redwood-firmware)
 
 ### Whats works?
 
@@ -32,6 +31,7 @@ LineageOS Android Distribution A free and open-source operating system for vario
 
 ### Bugs?
 
+	* Charging 67W still dead
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
